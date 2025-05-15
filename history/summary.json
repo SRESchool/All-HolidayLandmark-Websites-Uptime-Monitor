@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 535,
-    "timeDay": 535,
-    "timeWeek": 535,
-    "timeMonth": 535,
-    "timeYear": 535,
+    "time": 522,
+    "timeDay": 522,
+    "timeWeek": 522,
+    "timeMonth": 522,
+    "timeYear": 522,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 577,
-    "timeWeek": 577,
-    "timeMonth": 577,
-    "timeYear": 577,
+    "time": 552,
+    "timeDay": 552,
+    "timeWeek": 552,
+    "timeMonth": 552,
+    "timeYear": 552,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 623,
-    "timeDay": 623,
-    "timeWeek": 623,
-    "timeMonth": 623,
-    "timeYear": 623,
+    "time": 586,
+    "timeDay": 586,
+    "timeWeek": 586,
+    "timeMonth": 586,
+    "timeYear": 586,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 290,
-    "timeWeek": 290,
-    "timeMonth": 290,
-    "timeYear": 290,
+    "time": 291,
+    "timeDay": 291,
+    "timeWeek": 291,
+    "timeMonth": 291,
+    "timeYear": 291,
     "dailyMinutesDown": {}
   },
   {
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 15
+      "2025-05-15": 27
     }
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 551,
-    "timeDay": 551,
-    "timeWeek": 551,
-    "timeMonth": 551,
-    "timeYear": 551,
+    "time": 533,
+    "timeDay": 533,
+    "timeWeek": 533,
+    "timeMonth": 533,
+    "timeYear": 533,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2638,
-    "timeDay": 2638,
-    "timeWeek": 2638,
-    "timeMonth": 2638,
-    "timeYear": 2638,
+    "time": 2639,
+    "timeDay": 2639,
+    "timeWeek": 2639,
+    "timeMonth": 2639,
+    "timeYear": 2639,
     "dailyMinutesDown": {}
   },
   {
@@ -133,18 +133,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mumbaiorbit.in.ico",
     "slug": "mumbai-orbit",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 15
+      "2025-05-15": 27
     }
   }
 ]
