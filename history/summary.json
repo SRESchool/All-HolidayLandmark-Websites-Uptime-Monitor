@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/holidaylandmark.com.ico",
     "slug": "holiday-landmark",
     "status": "down",
-    "uptime": "0.55%",
-    "uptimeDay": "0.55%",
-    "uptimeWeek": "0.55%",
-    "uptimeMonth": "0.55%",
-    "uptimeYear": "0.55%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 4
+      "2025-05-15": 15
     }
   },
   {
@@ -133,18 +133,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mumbaiorbit.in.ico",
     "slug": "mumbai-orbit",
     "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 4
+      "2025-05-15": 15
     }
   }
 ]
