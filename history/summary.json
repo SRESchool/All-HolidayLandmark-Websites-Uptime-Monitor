@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bangaloreorbit.com.ico",
     "slug": "bangalore-orbit",
     "status": "down",
-    "uptime": "94.08%",
-    "uptimeDay": "81.17%",
-    "uptimeWeek": "94.08%",
-    "uptimeMonth": "94.08%",
-    "uptimeYear": "94.08%",
+    "uptime": "93.66%",
+    "uptimeDay": "79.77%",
+    "uptimeWeek": "93.66%",
+    "uptimeMonth": "93.66%",
+    "uptimeYear": "93.66%",
     "time": 530,
-    "timeDay": 602,
+    "timeDay": 610,
     "timeWeek": 530,
     "timeMonth": 530,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2025-05-18": 271
+      "2025-05-18": 291
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bhopalorbit.com.ico",
     "slug": "bhopal-orbit",
     "status": "down",
-    "uptime": "94.09%",
-    "uptimeDay": "81.21%",
-    "uptimeWeek": "94.09%",
-    "uptimeMonth": "94.09%",
-    "uptimeYear": "94.09%",
+    "uptime": "93.67%",
+    "uptimeDay": "79.80%",
+    "uptimeWeek": "93.67%",
+    "uptimeMonth": "93.67%",
+    "uptimeYear": "93.67%",
     "time": 538,
-    "timeDay": 568,
+    "timeDay": 573,
     "timeWeek": 538,
     "timeMonth": 538,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2025-05-18": 271
+      "2025-05-18": 291
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gujaratorbit.com.ico",
     "slug": "gujarat-orbit",
     "status": "down",
-    "uptime": "94.10%",
-    "uptimeDay": "81.24%",
-    "uptimeWeek": "94.10%",
-    "uptimeMonth": "94.10%",
-    "uptimeYear": "94.10%",
+    "uptime": "93.69%",
+    "uptimeDay": "79.84%",
+    "uptimeWeek": "93.69%",
+    "uptimeMonth": "93.69%",
+    "uptimeYear": "93.69%",
     "time": 693,
-    "timeDay": 1139,
+    "timeDay": 1156,
     "timeWeek": 693,
     "timeMonth": 693,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2025-05-18": 270
+      "2025-05-18": 290
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/chennaiorbit.com.ico",
     "slug": "chennai-orbit",
     "status": "down",
-    "uptime": "94.11%",
-    "uptimeDay": "81.28%",
-    "uptimeWeek": "94.11%",
-    "uptimeMonth": "94.11%",
-    "uptimeYear": "94.11%",
+    "uptime": "93.70%",
+    "uptimeDay": "79.87%",
+    "uptimeWeek": "93.70%",
+    "uptimeMonth": "93.70%",
+    "uptimeYear": "93.70%",
     "time": 268,
-    "timeDay": 273,
+    "timeDay": 276,
     "timeWeek": 268,
     "timeMonth": 268,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-05-18": 270
+      "2025-05-18": 290
     }
   },
   {
@@ -96,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 1189,
+      "2025-05-18": 1209,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 509
@@ -108,18 +108,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/keralaorbit.in.ico",
     "slug": "kerala-orbit",
     "status": "down",
-    "uptime": "94.12%",
-    "uptimeDay": "81.32%",
-    "uptimeWeek": "94.12%",
-    "uptimeMonth": "94.12%",
-    "uptimeYear": "94.12%",
+    "uptime": "93.71%",
+    "uptimeDay": "79.91%",
+    "uptimeWeek": "93.71%",
+    "uptimeMonth": "93.71%",
+    "uptimeYear": "93.71%",
     "time": 508,
-    "timeDay": 505,
+    "timeDay": 511,
     "timeWeek": 508,
     "timeMonth": 508,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-05-18": 269
+      "2025-05-18": 289
     }
   },
   {
@@ -128,18 +128,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/meraapnabihar.com.ico",
     "slug": "mera-apna-bihar",
     "status": "down",
-    "uptime": "94.13%",
-    "uptimeDay": "81.35%",
-    "uptimeWeek": "94.13%",
-    "uptimeMonth": "94.13%",
-    "uptimeYear": "94.13%",
+    "uptime": "93.72%",
+    "uptimeDay": "79.95%",
+    "uptimeWeek": "93.72%",
+    "uptimeMonth": "93.72%",
+    "uptimeYear": "93.72%",
     "time": 2791,
-    "timeDay": 2796,
+    "timeDay": 2806,
     "timeWeek": 2791,
     "timeMonth": 2791,
     "timeYear": 2791,
     "dailyMinutesDown": {
-      "2025-05-18": 269
+      "2025-05-18": 289
     }
   },
   {
@@ -148,18 +148,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mumbaiorbit.in.ico",
     "slug": "mumbai-orbit",
     "status": "down",
-    "uptime": "36.70%",
-    "uptimeDay": "81.39%",
-    "uptimeWeek": "36.70%",
-    "uptimeMonth": "36.70%",
-    "uptimeYear": "36.70%",
+    "uptime": "36.53%",
+    "uptimeDay": "79.98%",
+    "uptimeWeek": "36.53%",
+    "uptimeMonth": "36.53%",
+    "uptimeYear": "36.53%",
     "time": 481,
-    "timeDay": 501,
+    "timeDay": 507,
     "timeWeek": 481,
     "timeMonth": 481,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2025-05-18": 268,
+      "2025-05-18": 288,
       "2025-05-17": 681,
       "2025-05-16": 1440,
       "2025-05-15": 508
